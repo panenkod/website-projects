@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.eliod{
+  width: 200px;
+}
+header {
+ background-color:crimson;
+}
+main {
+ background-color:crimson;
+}
+footer {
+ background-color:crimson;
+}
+ header{
+ font-size:large;
+}
+ main{
+ font-size:large;
+}
+footer {
+ font-size:large;
+}
+body {
+ border:gold;
+}
+ body{
+ border-radius:0ex;
+}
