@@ -1,0 +1,37 @@
+
+body h1{
+    text-align: center;
+}
+body p{
+    color:rgb(10, 13, 212);
+
+}
+.roblox{
+    height:23px;
+    
+}
+a{
+   text-decoration: none; 
+}
+body{
+    background-color: rgb(72, 70, 70);
+
+}
+footer p {
+    color:red;
+    font-size:20px
+}
+body {
+ border-radius:10px ;
+}
+footer p i {
+    font-size: 15px;
+    color: blanchedalmond;
+}
+footer h1 h2 {
+    color: blueviolet;
+   
+}
+header a i{
+    color: blueviolet;
+}
